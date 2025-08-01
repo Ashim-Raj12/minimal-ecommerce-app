@@ -25,7 +25,7 @@ A sleek and modern e-commerce mobile application built with Flutter. This app sh
 ## 🔧 Getting Started
 
 ```bash
-git clone https://github.com/yourusername/flutter-ecommerce-app.git
-cd flutter-ecommerce-app
+git clone https://github.com/Asgim-Raj12/minimal-ecommerce-app.git
+cd minimal-ecommerce-app
 flutter pub get
 flutter run
